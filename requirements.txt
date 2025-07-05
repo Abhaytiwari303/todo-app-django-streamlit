@@ -1,0 +1,11 @@
+django 
+djangorestframework 
+psycopg2-binary 
+python-decouple 
+django-cors-headers 
+channels 
+channels-redis
+streamlit
+requests
+python-dotenv
+plotly
