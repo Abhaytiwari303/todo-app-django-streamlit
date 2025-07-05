@@ -225,16 +225,19 @@ curl -X POST http://localhost:8000/api/auth/login/ \
 
 ## 🎨 Screenshots
 
+### Register
+![image](https://github.com/user-attachments/assets/2e14462b-f0ed-4eb9-a16b-6a5568a315c0)
+
+### Login
+![Screenshot 2025-07-05 151518](https://github.com/user-attachments/assets/d9fb2d80-a885-4eba-ac0c-ffde299a00ee)
+
+
 ### Task form
-![Dashboard]![image](https://github.com/user-attachments/assets/b5f15b90-a547-447b-8a80-723cb572b8d4)
-)
+![image](https://github.com/user-attachments/assets/e6dab259-b314-4943-964b-4b2936b04c40)
+
 
 ### Task Overview
-![Task Overview](![Screenshot 2025-07-05 150000](https://github.com/user-attachments/assets/3c21393b-3e85-44eb-96c1-ced78cb7e1e1)
-)
-
-### Analytics
-![Analytics](https://via.placeholder.com/600x300/32CD32/FFFFFF?text=Analytics+Dashboard)
+![Screenshot 2025-07-05 150000](https://github.com/user-attachments/assets/902cf791-5fbd-487d-9a01-2b6fe52f00d5)
 
 ## 🔐 Security Features
 
