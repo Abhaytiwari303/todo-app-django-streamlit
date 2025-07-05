@@ -7,7 +7,6 @@
 
 A modern, full-stack task management application combining the power of **Django REST Framework** for robust backend operations and **Streamlit** for an intuitive, real-time frontend experience.
 
-![TaskFlow Demo](https://via.placeholder.com/800x400/4A90E2/FFFFFF?text=TaskFlow+Demo)
 
 ## ✨ Key Features
 
@@ -226,11 +225,13 @@ curl -X POST http://localhost:8000/api/auth/login/ \
 
 ## 🎨 Screenshots
 
-### Dashboard View
-![Dashboard](https://via.placeholder.com/600x300/4A90E2/FFFFFF?text=Dashboard+View)
+### Task form
+![Dashboard]![image](https://github.com/user-attachments/assets/b5f15b90-a547-447b-8a80-723cb572b8d4)
+)
 
-### Task Management
-![Task Management](https://via.placeholder.com/600x300/7B68EE/FFFFFF?text=Task+Management)
+### Task Overview
+![Task Overview](![Screenshot 2025-07-05 150000](https://github.com/user-attachments/assets/3c21393b-3e85-44eb-96c1-ced78cb7e1e1)
+)
 
 ### Analytics
 ![Analytics](https://via.placeholder.com/600x300/32CD32/FFFFFF?text=Analytics+Dashboard)
