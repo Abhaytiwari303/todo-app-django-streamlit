@@ -310,6 +310,6 @@ We welcome contributions! Please follow these steps:
 
 ---
 
-**Made with ❤️ by [Abhay Tiwari]**
+**Made with ❤️ by Abhay Tiwari**
 
 ⭐ Star this repository if you find it helpful!
